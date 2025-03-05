@@ -1,0 +1,290 @@
+{
+  "aristotle": {
+    "name": "Bust of Aristotle",
+    "description": "Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC",
+    "source": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
+    "attribution": "After Lysippos - Jastrow (2006)",
+    "license": "Public Domain"
+  },
+  "homer": {
+    "name": "Bust of Homer",
+    "description": "Homer bust, Farnese collection (Naples)",
+    "source": "https://commons.wikimedia.org/wiki/File:Homer_bust,_Farnese_collection_(Naples).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Homer_bust%2C_Farnese_collection_%28Naples%29.jpg",
+    "attribution": "NikonZ7II, CC BY-SA 4.0, via Wikimedia Commons",
+    "license": "CC BY-SA 4.0"
+  },
+  "socrates": {
+    "name": "Portrait of Socrates",
+    "description": "Marble, Roman artwork (1st century), perhaps a copy of a lost bronze statue made by Lysippos",
+    "source": "https://commons.wikimedia.org/wiki/File:Socrates_Louvre.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg",
+    "attribution": "Sting, CC BY-SA 2.5, via Wikimedia Commons",
+    "license": "CC BY-SA 2.5"
+  },
+  "plato": {
+    "name": "Portrait of Plato",
+    "description": "Copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens",
+    "source": "https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg",
+    "attribution": "Marie-Lan Nguyen / Wikimedia Commons",
+    "license": "Public Domain"
+  },
+  "aeschines": {
+    "name": "File:Aeschines.jpg",
+    "description": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Aeschines.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Aeschines.jpg",
+    "attribution": "Wikimedia Commons",
+    "license": "pd"
+  },
+  "aeschylus": {
+    "name": "File:Aischylos Büste.jpg",
+    "description": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Aischylos%20B%C3%BCste.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Aischylos_B%C3%BCste.jpg",
+    "attribution": "Unknown<span style=\"display: none;\">Unknown </span>",
+    "license": "pd"
+  },
+  "aesop": {
+    "name": "File:Aesop pushkin01.jpg",
+    "description": "Plaster cast of the ancient bust thought to depict Aesop, at the Villa Albani, Rome. Pushkin State Museum of Fine Arts, Moscow.",
+    "source": "https://commons.wikimedia.org/wiki/File:Aesop%20pushkin01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Aesop_pushkin01.jpg",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Shakko\" title=\"User:Shakko\">user:shakko</a>",
+    "license": "cc-by-sa-3.0"
+  },
+  "andocides": {
+    "name": "File:EB1911 Ceramics Fig. 27.— Vase by Andocides.jpg",
+    "description": "Encyclopædia Britannica 1911 - Ceramics article; Vase by Andocides",
+    "source": "https://commons.wikimedia.org/wiki/File:EB1911%20Ceramics%20Fig.%2027.%E2%80%94%20Vase%20by%20Andocides.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/EB1911_Ceramics_Fig._27.%E2%80%94_Vase_by_Andocides.jpg",
+    "attribution": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+    "license": "pd"
+  },
+  "antiphon": {
+    "name": "File:Schale des Antiphon-Malers.JPG",
+    "description": "Zechender Grieche mit einer Schale in der Hand auf einer Kline liegend, dem Antiphon-Maler zugeschrieben, gefunden in Vulci, um 480 v. Chr., Antikensammlung Berlin/Altes Museum",
+    "source": "https://commons.wikimedia.org/wiki/File:Schale%20des%20Antiphon-Malers.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Schale_des_Antiphon-Malers.JPG",
+    "attribution": "Picture taken by <a href=\"//commons.wikimedia.org/wiki/User:Marcus_Cyron\" title=\"User:Marcus Cyron\">Marcus Cyron</a>",
+    "license": "cc-by-sa-3.0"
+  },
+  "apollodorus": {
+    "name": "File:Apollodorus of Damascus, Greek Architect and Engineer. Pic 01.jpg",
+    "description": "Bust from 130/140 AD of “Apollodorus”, very likely <a href=\"https://en.wikipedia.org/wiki/Apollodorus_of_Damascus\" class=\"extiw\" title=\"en:Apollodorus of Damascus\">Apollodorus of Damascus</a>, the Greek court architect of the early 2nd century AD Roman emperors Trajan and Hadrian. On display at Munich Glyptothek, “Saal XI: Saal der römischen Bildnisse”, No. 31",
+    "source": "https://commons.wikimedia.org/wiki/File:Apollodorus%20of%20Damascus%2C%20Greek%20Architect%20and%20Engineer.%20Pic%2001.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Apollodorus_of_Damascus%2C_Greek_Architect_and_Engineer._Pic_01.jpg",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Gun_Powder_Ma\" title=\"User:Gun Powder Ma\">Gun Powder Ma</a>",
+    "license": "cc-by-sa-3.0"
+  },
+  "apollonius": {
+    "name": "File:Apollonius of Tyana.jpg",
+    "description": "Text: \"Apolloni-us Teaneus\" (Apollonius of Tyana). Contorniato medallion in honor of Apollonius of Tiana. The large size medals (between 30 and 40 mm) are called this way, with a characteristic incised circle at the edge, which were manufactured from the middle of the fourth century, showing classical Greco-Roman figures.",
+    "source": "https://commons.wikimedia.org/wiki/File:Apollonius%20of%20Tyana.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Apollonius_of_Tyana.jpg",
+    "attribution": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+    "license": "pd"
+  },
+  "apuleius": {
+    "name": "File:Apuleius - Project Gutenberg eText 12788.png",
+    "description": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Apuleius%20-%20Project%20Gutenberg%20eText%2012788.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Apuleius_-_Project_Gutenberg_eText_12788.png",
+    "attribution": "Wikimedia Commons",
+    "license": "pd"
+  },
+  "aristophanes": {
+    "name": "File:Aristophanes - Project Gutenberg eText 12788.png",
+    "description": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Aristophanes%20-%20Project%20Gutenberg%20eText%2012788.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Aristophanes_-_Project_Gutenberg_eText_12788.png",
+    "attribution": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+    "license": "pd"
+  },
+  "augustus": {
+    "name": "File:Caesar augustus.jpg",
+    "description": "Portrait of Augustus created ca. 20–30 BC; the head does not belong to the statue, dated middle 2nd century AD.",
+    "source": "https://commons.wikimedia.org/wiki/File:Caesar%20augustus.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Caesar_augustus.jpg",
+    "attribution": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+    "license": "cc-by-sa-3.0"
+  },
+  "bacchylides": {
+    "name": "File:Bacchylides 1.png",
+    "description": "Illustration from 1911 Encyclopædia Britannica, article BACCHYLIDES.\nForm of Upsilon in MS. of Bacchylides.",
+    "source": "https://commons.wikimedia.org/wiki/File:Bacchylides%201.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bacchylides_1.png",
+    "attribution": "Project Gutenberg Distributed Proofreaders",
+    "license": "pd"
+  },
+  "julius-caesar": {
+    "name": "File:Bust of Gaius Iulius Caesar in Naples.jpg",
+    "description": "Bust of Gaius Julius Caesar in the <a href=\"//commons.wikimedia.org/wiki/Museo_Archeologico_Nazionale_(Naples)\" class=\"mw-redirect\" title=\"Museo Archeologico Nazionale (Naples)\">National Archaeological Museum of Naples</a>. Taken by Andreas Wahra in March 1997.",
+    "source": "https://commons.wikimedia.org/wiki/File:Bust%20of%20Gaius%20Iulius%20Caesar%20in%20Naples.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg",
+    "attribution": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:Wa\" class=\"extiw\" title=\"de:Benutzer:Wa\">Andreas Wahra</a>",
+    "license": "pd"
+  },
+  "cicero": {
+    "name": "File:Marcus Tullius Cicero.jpg",
+    "description": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Marcus%20Tullius%20Cicero.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Marcus_Tullius_Cicero.jpg",
+    "attribution": "Wikimedia Commons",
+    "license": "pd"
+  },
+  "demades": {
+    "name": "File:Carmille.jpg",
+    "description": "Portrait de <a href=\"https://fr.wikipedia.org/wiki/Ren%C3%A9_Carmille\" class=\"extiw\" title=\"fr:René Carmille\">fr:René Carmille</a> (1886-1945)",
+    "source": "https://commons.wikimedia.org/wiki/File:Carmille.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Carmille.jpg",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Julien_Demade&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Julien Demade (page does not exist)\">Julien Demade</a>",
+    "license": "cc-by-sa-3.0"
+  },
+  "demosthenes": {
+    "name": "File:Demosthenes orator Louvre.jpg",
+    "description": "Bust of the Greek orator <a href=\"https://en.wikipedia.org/wiki/Demosthenes\" class=\"extiw\" title=\"en:Demosthenes\">Demosthenes</a>. Marble, Roman artwork, inspired from a bronze statue by Polyeuctos (ca. 280 BC). Found in Italy.",
+    "source": "https://commons.wikimedia.org/wiki/File:Demosthenes%20orator%20Louvre.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Demosthenes_orator_Louvre.jpg",
+    "attribution": "Copy of Polyeuktos",
+    "license": "cc-by-sa-2.5"
+  },
+  "dinarchus": {
+    "name": "File:Isaeus - Isaeus Dinarchus Lycurgus Aeschines et Demades, 1822.djvu",
+    "description": "<div class=\"description\">\nv. 1. Antiphon, Andocides, Lysias. v. 2. Isocrates. v. 3. Isaeus, Dinarchus, Lycurgus, Aeschines, Demades. v. 4, pt. 1-3. Demosthenes. v. 4, pt. 4 Demosthenes (pars 4); Lesbonax,Herodes, Antisthenes, Alicidamas, Gorgias</div>",
+    "source": "https://commons.wikimedia.org/wiki/File:Isaeus%20-%20Isaeus%20Dinarchus%20Lycurgus%20Aeschines%20et%20Demades%2C%201822.djvu",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Isaeus_-_Isaeus_Dinarchus_Lycurgus_Aeschines_et_Demades%2C_1822.djvu",
+    "attribution": "<div class=\"fn value\">\nImmanuel Bekker</div>",
+    "license": "pd"
+  },
+  "diodorus": {
+    "name": "File:Diodorus Siculus Bibliotheca historica 1559 Basel.jpg",
+    "description": "The title page of <i><a href=\"https://en.wikipedia.org/wiki/Bibliotheca_historica\" class=\"extiw\" title=\"en:Bibliotheca historica\">en:Bibliotheca historica</a></i>by <a href=\"https://en.wikipedia.org/wiki/Diodorus_Siculus\" class=\"extiw\" title=\"en:Diodorus Siculus\">en:Diodorus Siculus</a> published in 1559 in Basel. (<a rel=\"nofollow\" class=\"external text\" href=\"http://www.worldcat.org/title/diodori-siculi-bibliothecae-historicae-libri-xv-hoc-est-quotquot-graece-extant-de-quadraginta-quorum-quinque-nunc-primum-latine-eduntur-de-quibus-in-praesationes-edoceberis-adiecta-his-sunt-ex-iis-libris-qui-non-extant-fragmenta-quaedam/oclc/419473193\">Cathalogue info</a>)",
+    "source": "https://commons.wikimedia.org/wiki/File:Diodorus%20Siculus%20Bibliotheca%20historica%201559%20Basel.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Diodorus_Siculus_Bibliotheca_historica_1559_Basel.jpg",
+    "attribution": "Original uploaded by <a href=\"https://hu.wikipedia.org/wiki/User:Data_Destroyer\" class=\"extiw\" title=\"hu:User:Data Destroyer\">Data Destroyer</a> (Transfered by <a href=\"//commons.wikimedia.org/wiki/User:Teemeah\" class=\"mw-redirect\" title=\"User:Teemeah\">Teemeah</a>)",
+    "license": "pd"
+  },
+  "epictetus": {
+    "name": "File:Epictetus.jpg",
+    "description": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Epictetus.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg",
+    "attribution": "Wikimedia Commons",
+    "license": "pd"
+  },
+  "epicurus": {
+    "name": "File:Epicurus Massimo Inv197306.jpg",
+    "description": "Portrait of <a href=\"//commons.wikimedia.org/wiki/Epicurus\" title=\"Epicurus\">Epicurus</a>. Pentelic marble, Roman copy (1st century CE) of a Greek original of the 3rd century BC.",
+    "source": "https://commons.wikimedia.org/wiki/File:Epicurus%20Massimo%20Inv197306.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Epicurus_Massimo_Inv197306.jpg",
+    "attribution": "Wikimedia Commons",
+    "license": "pd"
+  },
+  "euclid": {
+    "name": "File:Euklid-von-Alexandria 1.jpg",
+    "description": "Eukleides of Alexandria",
+    "source": "https://commons.wikimedia.org/wiki/File:Euklid-von-Alexandria%201.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Euklid-von-Alexandria_1.jpg",
+    "attribution": "Wikimedia Commons",
+    "license": "pd"
+  },
+  "euripides": {
+    "name": "File:Seated Euripides Louvre Ma343.jpg",
+    "description": "Statuette of Euripides, identified by an inscription on the base. On the background panel are listed some of Euripides' works. The statuette's head was restored after a bust now in the <a href=\"//commons.wikimedia.org/wiki/National_Archaeological_Museum_of_Naples\" class=\"mw-redirect\" title=\"National Archaeological Museum of Naples\">Archaeological Museum of Naples</a>. Marble, found in 1704 in the Esquiline Hill at Rome, 2nd century AD.",
+    "source": "https://commons.wikimedia.org/wiki/File:Seated%20Euripides%20Louvre%20Ma343.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Seated_Euripides_Louvre_Ma343.jpg",
+    "attribution": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+    "license": "pd"
+  },
+  "galen": {
+    "name": "File:Galenus of Pergamum.jpg",
+    "description": "Greek physician Claudius Galenus of Pergamum aka Galen (131-201)",
+    "source": "https://commons.wikimedia.org/wiki/File:Galenus%20of%20Pergamum.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Galenus_of_Pergamum.jpg",
+    "attribution": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+    "license": "pd"
+  },
+  "herodotus": {
+    "name": "File:Herodotus Massimo Inv124478.jpg",
+    "description": "Portrait of Herodotus, identified after other known inscribed portraits of the historian. Greek marble, Roman copy of a Greek original of the early 4th century BC. From the area of Porta Metronia, Rome.",
+    "source": "https://commons.wikimedia.org/wiki/File:Herodotus%20Massimo%20Inv124478.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Herodotus_Massimo_Inv124478.jpg",
+    "attribution": "Wikimedia Commons",
+    "license": "pd"
+  },
+  "hesiod": {
+    "name": "File:Pseudo-Seneca BM GR1962.8-24.1.jpg",
+    "description": "“Pseudo-Seneca”: the bust was identified for a very long time with the Roman philosopher Seneca. It was acknowledged as spurrious after the discovery of an inscripted portrait bearing Seneca's name (1813). May actually represent Hesiod. Roman copy after a lost Hellenistic original.",
+    "source": "https://commons.wikimedia.org/wiki/File:Pseudo-Seneca%20BM%20GR1962.8-24.1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pseudo-Seneca_BM_GR1962.8-24.1.jpg",
+    "attribution": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+    "license": "pd"
+  },
+  "hippocrates": {
+    "name": "File:Hippocrates rubens.jpg",
+    "description": "<div class=\"description\">\n<a href=\"https://en.wikipedia.org/wiki/en:Hippocrates\" class=\"extiw\" title=\"w:en:Hippocrates\"><span title=\"Greek physician ( c. 460 – c. 370 BC)\">Hippocrates</span></a></div>",
+    "source": "https://commons.wikimedia.org/wiki/File:Hippocrates%20rubens.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hippocrates_rubens.jpg",
+    "attribution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paulus_Pontius\" class=\"extiw\" title=\"w:en:Paulus Pontius\"><span title=\"Flemish printmaker (1603-1658)\">Paulus Pontius</span></a>\n</bdi> / <bdi>After <a href=\"https://en.wikipedia.org/wiki/en:Peter_Paul_Rubens\" class=\"extiw\" title=\"w:en:Peter Paul Rubens\"><span title=\"Flemish painter (1577–1640)\">Peter Paul Rubens</span></a>\n</bdi>",
+    "license": "pd"
+  },
+  "hirtius": {
+    "name": "File:Commentariesofcj00caesuoft.djvu",
+    "description": "1884 edition",
+    "source": "https://commons.wikimedia.org/wiki/File:Commentariesofcj00caesuoft.djvu",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Commentariesofcj00caesuoft.djvu",
+    "attribution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Julius_Caesar\" class=\"extiw\" title=\"w:en:Julius Caesar\"><span title=\"Roman general and dictator (100 – 44 BC)\">Julius Caesar</span></a>\n</bdi> / <bdi><a href=\"https://en.wikipedia.org/wiki/en:Aulus_Hirtius\" class=\"extiw\" title=\"w:en:Aulus Hirtius\"><span title=\"Roman historian, politician and soldier\">Aulus Hirtius</span></a>\n</bdi>",
+    "license": "pd"
+  },
+  "confucius": {
+    "name": "File:Confucius Statue at the Confucius Temple.jpg",
+    "description": "<p>Confucius statue at the Confucius Temple (Beijing, China)\n<b>Author</b>: <a href=\"//commons.wikimedia.org/w/index.php?title=User:Mr._Tickle&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mr. Tickle (page does not exist)\">Mr. Tickle</a>\n</p>\n<b>Date</b>: 07/19, 2005",
+    "source": "https://commons.wikimedia.org/wiki/File:Confucius%20Statue%20at%20the%20Confucius%20Temple.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Confucius_Statue_at_the_Confucius_Temple.jpg",
+    "attribution": "No machine-readable author provided. <a href=\"//commons.wikimedia.org/w/index.php?title=User:Mr._Tickle&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mr. Tickle (page does not exist)\">Mr. Tickle</a> assumed (based on copyright claims).",
+    "license": "cc-by-sa-3.0"
+  },
+  "lao-tzu": {
+    "name": "File:Lao Tzu - Project Gutenberg eText 15250.jpg",
+    "description": "Portrait of <a href=\"https://en.wikipedia.org/wiki/Laozi\" class=\"extiw\" title=\"en:Laozi\">Lao Zi</a> (Lao Tzu)",
+    "source": "https://commons.wikimedia.org/wiki/File:Lao%20Tzu%20-%20Project%20Gutenberg%20eText%2015250.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Lao_Tzu_-_Project_Gutenberg_eText_15250.jpg",
+    "attribution": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+    "license": "pd"
+  },
+  "sun-tzu": {
+    "name": "File:Bamboo book - closed - UCR.jpg",
+    "description": "A Chinese bamboo book, closed to display the cover. This copy of <i><a href=\"https://en.wikipedia.org/wiki/The_Art_of_War\" class=\"extiw\" title=\"wikipedia:The Art of War\">The Art of War</a></i> (on the cover, \"孫子兵法\") by <a href=\"https://en.wikipedia.org/wiki/Sun_Tzu\" class=\"extiw\" title=\"wikipedia:Sun Tzu\">Sun Tzu</a> is part of a collection at the <a href=\"https://en.wikipedia.org/wiki/University_of_California,_Riverside\" class=\"extiw\" title=\"wikipedia:University of California, Riverside\">University of California, Riverside</a>. The cover also reads \"乾隆御書\", meaning it was either commissioned or transcribed by the <a href=\"https://en.wikipedia.org/wiki/Qianlong_Emperor\" class=\"extiw\" title=\"en:Qianlong Emperor\">Qianlong Emperor</a>.",
+    "source": "https://commons.wikimedia.org/wiki/File:Bamboo%20book%20-%20closed%20-%20UCR.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bamboo_book_-_closed_-_UCR.jpg",
+    "attribution": "vlasta2, <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/bluefootedbooby/\">bluefootedbooby on flickr.com</a>",
+    "license": "cc-by-2.0"
+  },
+  "ferdowsi": {
+    "name": "File:Ferdowsi Square (Tehran).jpg",
+    "description": "Ferdowsi Square in Tehran",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferdowsi%20Square%20(Tehran).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ferdowsi_Square_%28Tehran%29.jpg",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Orijentolog\" title=\"User:Orijentolog\">Orijentolog</a>",
+    "license": "cc-by-sa-3.0"
+  },
+  "omar-khayyam": {
+    "name": "File:Omar Khayyam2.JPG",
+    "description": "Omar Khayyam\n<p>Photo scannée par <a href=\"https://fr.wikipedia.org/wiki/Utilisateur:Atilin\" class=\"extiw\" title=\"fr:Utilisateur:Atilin\">Utilisateur:Atilin</a> depuis la source soviétique sans droits d'auteur.\n</p>\nauteur du dessin : A. Venediktov",
+    "source": "https://commons.wikimedia.org/wiki/File:Omar%20Khayyam2.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Omar_Khayyam2.JPG",
+    "attribution": "The original uploader was <a href=\"https://en.wikipedia.org/wiki/fr:User:Atilin\" class=\"extiw\" title=\"w:fr:User:Atilin\">Atilin</a> at <a href=\"https://en.wikipedia.org/wiki/fr:\" class=\"extiw\" title=\"w:fr:\">French Wikipedia</a>.",
+    "license": "cc-by-sa-3.0"
+  },
+  "sadi": {
+    "name": "File:Saadi Tomb.jpg",
+    "description": "Saadi's mausoleum in Shiraz",
+    "source": "https://commons.wikimedia.org/wiki/File:Saadi%20Tomb.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Saadi_Tomb.jpg",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"http://wikitravel.org/wiki/shared/User:Omid_Hatami\">Omid Hatami</a>",
+    "license": "pd"
+  }
+}
